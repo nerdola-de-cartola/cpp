@@ -1,0 +1,1 @@
+bool cinstr(char chute);

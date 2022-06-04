@@ -1,0 +1,1 @@
+void imprimeCabecalho(void);
